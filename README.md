@@ -4,4 +4,4 @@ A cadastral map is a map which provides detailed information about real property
 After taking digital images of the UAV, the images were processed in Metashape software and orthophotos were prepared.
 After preparing the orthophoto, it is time to draw different layers of the area, including urban buildings, agricultural lands, mosques and schools, etc.
 
-![image](https://github.com/bakhshiintel/cadastral/assets/98385786/f849d225-041c-4f68-82ab-f3fa597526b6)
+ ![image](https://github.com/bakhshiintel/cadastral_Map/assets/98385786/346a021a-a1f5-4430-95aa-439c6aa12955)
